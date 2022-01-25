@@ -6,5 +6,5 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
-ergo-headless-dapp-framework    = "0.1.13"
+ergo-headless-dapp-framework    = {path ="../ergo-headless-dapp-framework"}
 ergo-lib                     = "0.14.0"
