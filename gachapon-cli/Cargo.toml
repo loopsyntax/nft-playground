@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 gachapon    = {path = "../"}
-ergo-node-interface     = {path = "../../ergo-node-interface-rust"} #"0.2.6"
+ergo-node-interface     = "0.2.6"
 reqwest                 = {version ="0.10.9", features = ["blocking"]}
